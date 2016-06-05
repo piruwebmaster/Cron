@@ -1,0 +1,1 @@
+python c:\Users\Administrator\Desktop\p\programa.py
